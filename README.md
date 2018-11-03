@@ -1,2 +1,3 @@
 # Awesome_GuGuGu_Tutorial
-A introduction to how to GuGuGu gracefully.
+First of all, you have to make a plan. For instance, you need to write a graceful README.md. Just like this one.
+Secon
